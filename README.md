@@ -11,7 +11,6 @@ A comprehensive desktop application for managing employee attendance, built with
 
 ## 📑 Table of Contents
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
@@ -55,7 +54,7 @@ A comprehensive desktop application for managing employee attendance, built with
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/attendance-system.git
+    git clone https://github.com/mobinh8585/attendance-system.git
     cd attendance-system
     ```
 
