@@ -45,20 +45,6 @@ A comprehensive desktop application for managing employee attendance, built with
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here after running the application)*
-
-| Login Screen | Admin Panel |
-|:---:|:---:|
-| ![Login](https://via.placeholder.com/400x300?text=Login+Screen) | ![Admin](https://via.placeholder.com/400x300?text=Admin+Panel) |
-
-| Worker Panel | PDF Report |
-|:---:|:---:|
-| ![Worker](https://via.placeholder.com/400x300?text=Worker+Panel) | ![Report](https://via.placeholder.com/400x300?text=PDF+Report) |
-
----
-
 ## 📥 Installation
 
 ### Prerequisites
